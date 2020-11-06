@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="HtmlTools" />
+    <plugin id="com.amintado.bootstrap" />
+    <plugin id="com.jetbrains.php" />
+    <plugin id="com.jetbrains.php.blade" />
+    <plugin id="com.jetbrains.php.framework" />
+    <plugin id="com.jetbrains.php.wordPress" />
+    <plugin id="com.jetbrains.restClient" />
+    <plugin id="de.espend.idea.laravel" />
+    <plugin id="fr.adrienbrault.idea.symfony2plugin" />
+    <plugin id="in.thekalinga.snippet.intellij" />
+    <plugin id="intellij.prettierJS" />
+    <plugin id="nl.jworks.intellij.bootstrap3" />
+    <plugin id="org.jetbrains.plugins.vue" />
+    <plugin id="ru.adelf.idea.dotenv" />
+  </component>
+</project>
